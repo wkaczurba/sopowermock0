@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.wkaczurb.sopowermock1.SomePropertiesTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.299 sec <<< FAILURE!
-testStaticBlock(com.wkaczurb.sopowermock1.SomePropertiesTest)  Time elapsed: 0.049 sec  <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.054 sec <<< FAILURE!
+testStaticBlock(com.wkaczurb.sopowermock1.SomePropertiesTest)  Time elapsed: 0.031 sec  <<< ERROR!
 java.lang.ExceptionInInitializerError
 	at com.wkaczurb.sopowermock1.SomePropertiesTest.testStaticBlock(SomePropertiesTest.java:12)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
